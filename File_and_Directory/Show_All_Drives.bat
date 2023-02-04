@@ -6,10 +6,11 @@ echo '@Author Gitau Muguro'
 fsutil fsinfo drives
 
 #Command B:
+# using Windows Management Instrumentation (WMIC)
 
 wmic logicaldisk get caption
 
 #Command C
-#Open diskpart and then type 'list colume'
-diskpart
-list volume
+#Open diskpart and then type 'list volume'
+# diskpart
+# list volume
