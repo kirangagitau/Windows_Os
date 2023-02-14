@@ -5,5 +5,5 @@ Before running any '.bat' first open it incase editing is need as more instructi
 the file and will apear as comments. batch files are commented by :: (double full colon).
 For some of the batch files, user specific value may be required.
 The batch files can be edited using a text editor such as Notepad.
-Some batch files need to be run with admin priveledges so as to run well.
+Some batch files need to be run with admin priviledges so as to run well.
 Do not hesistate to ask for assistance by contacting dennosea@gmail.com
