@@ -8,3 +8,6 @@ below are examples-:
                     Lenovo (Desktops): F1.
                     Lenovo (ThinkPads): Enter + F1.
                     MSI: DEL for motherboards and PCs. 
+
+NB: the common keys to used when accessing BIOS are - F10, F2, F12, F1, or DEL.
+    The manufucturer is the one who sets this key.
