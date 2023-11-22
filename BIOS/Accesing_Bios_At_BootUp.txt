@@ -1,0 +1,10 @@
+For varoious machines, there are different keys or key combinations used to access bios,
+below are examples-:
+                    Acer: F2 or DEL.
+                    ASUS: F2 for all PCs, F2 or DEL for motherboards.
+                    Dell: F2 or F12.
+                    HP: ESC or F10.
+                    Lenovo: F2 or Fn + F2.
+                    Lenovo (Desktops): F1.
+                    Lenovo (ThinkPads): Enter + F1.
+                    MSI: DEL for motherboards and PCs. 
