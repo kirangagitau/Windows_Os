@@ -8,6 +8,11 @@ below are examples-:
                     Lenovo (Desktops): F1.
                     Lenovo (ThinkPads): Enter + F1.
                     MSI: DEL for motherboards and PCs. 
+                    Microsoft Surface Tablets: Press and hold volume up button.
+                    Origin PC: F2
+                    Samsung: F2
+                    Sony: F1, F2, or F3
+                    Toshiba: F2
 
 NB: the common keys to used when accessing BIOS are - F10, F2, F12, F1, or DEL.
     The manufucturer is the one who sets this key.
