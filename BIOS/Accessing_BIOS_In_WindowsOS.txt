@@ -1,5 +1,12 @@
 open the CMD (preferably as ADMIN) and run the following command.
     shutdown /r /fw 
 Hit enter and the system will restart into BIOS after a minute.
-Alternatively the command below (in CMD) can be used to get BIOS relevant info still from the windows 
+
+Alternatively the command below (in CMD) can be used to get BIOS version incase you want to do an update. 
    wmic bios get smbiosbiosversion 
+
+Below command is used to get the serial number of a machine.
+    wmic bios get serialnumber
+
+NB:
+wmic = Windows Managemnt Instrumentation Commandline.
