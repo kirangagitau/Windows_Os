@@ -1,4 +1,17 @@
 There are times when bios update is deemed as necessary and as such one need be very cautios
 on how the do that. The safest source of the bios updates is the support site of the computer in question.
 If HP, then HP drivers support site.
-STEP 1:- 
+STEP 1:- Check the current version of bios in your machine, use the command
+                wmic bios 
+
+STEP 2:- Get serial number of your machine, use the command
+                wmic bios get serialnumber
+
+STEP 3:- GO to support site and view available bios diver updates for your machine by putting in 
+        the serial number of your machine and doing search.
+
+STEP 4:- Comparing version in your machine vs latest version from the site.
+
+STEP 5:- Download all the bios whose version is above the current one in your machine and install them 
+          sequentially  otherwise this would bring about conflict if you jump straight into intalling 
+          the latest bios driver. Skipping two or more bios versions may cause 'conflict'.
