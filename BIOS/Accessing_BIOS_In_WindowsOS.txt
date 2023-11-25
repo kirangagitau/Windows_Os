@@ -1,1 +1,5 @@
-a
+open the CMD (preferably as ADMIN) and run the following command.
+    shutdown /r /fw 
+Hit enter and the system will restart into BIOS after a minute.
+Alternatively the command below (in CMD) can be used to get BIOS relevant info still from the windows 
+   wmic bios get smbiosbiosversion 
