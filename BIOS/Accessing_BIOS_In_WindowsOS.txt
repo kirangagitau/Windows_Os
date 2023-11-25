@@ -8,5 +8,11 @@ Alternatively the command below (in CMD) can be used to get BIOS version incase 
 Below command is used to get the serial number of a machine.
     wmic bios get serialnumber
 
+The command below is critical in getting information such as 
+bios mode(UEFI, MBR), bios date, bios version among other general system summary information.
+    systeminfo32
+
+
+
 NB:
 wmic = Windows Managemnt Instrumentation Commandline.
