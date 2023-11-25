@@ -1,1 +1,4 @@
-
+There are times when bios update is deemed as necessary and as such one need be very cautios
+on how the do that. The safest source of the bios updates is the support site of the computer in question.
+If HP, then HP drivers support site.
+STEP 1:- 
